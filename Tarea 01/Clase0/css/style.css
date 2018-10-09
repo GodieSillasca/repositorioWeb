@@ -1,0 +1,22 @@
+html{/* puede ser html o * */
+	background-color: #EDCFCF;
+}
+
+h1{ /* los estilos van por etiqueta del .html*/
+	color: #5C1717;
+}
+h3{
+	color: #A56363;
+}
+p{
+	color :#C92ECC;
+}
+
+caption{/* el id se llama con el gato*/
+	color: #60A;
+}
+
+th{
+	color: #C4A1E0;
+}
+
