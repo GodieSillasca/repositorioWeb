@@ -1,0 +1,13 @@
+.parrafo1{
+	box-sizing: border-box;
+	width: 300px;
+	height:80px;
+	border: 10px solid #943939;
+}
+
+.parrafo2{
+	box-sizing: content-box;
+	width: 300px;
+	height: 80px;
+	border: 10px solid #943939;
+}

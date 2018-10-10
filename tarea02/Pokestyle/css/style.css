@@ -1,0 +1,63 @@
+*{
+	background: #9EE9DE;
+}
+
+.modeladoLogo{
+	padding: 30px 600px;
+	background: #6BCCE7;
+	width: 130px;
+	height: 90px;
+}
+
+
+.parrafo1{
+	margin: 10px 50px;
+	padding: 20px;
+	border-width: 15px;
+	border-style: ridge;
+	border-color: blue;
+}
+
+#fondo{
+	height: 15cm;
+	width: 30cm;
+	position: relative;
+}
+
+.tresElementos{
+	margin: 30px 250px;
+	padding: 50px;
+	justify-content: center;
+	background: #9EE9DE;
+	border-style: dotted;
+	border-color: #2689CA;
+	border-width: 10px;
+}
+
+.izquierda{
+	margin: 10px 10px;
+	padding: 50px;
+	justify-content: right;
+	background: #9EE9DE;
+	border-style: ridge;
+	border-color: #2689CA;
+	border-width: 10px;
+}
+
+h2,h3{
+	position: relative;
+	justify-content: center;
+}
+
+.menu{
+	
+	justify-content: center;
+	border-style: dashed;
+	border-color: #4D7886;
+	width: 300px;
+	height: 80px;
+}
+
+img{
+	justify-content: center;
+}
